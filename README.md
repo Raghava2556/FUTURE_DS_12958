@@ -1,5 +1,20 @@
+TASK-2
+
 Customer Retention & Churn Analysis – Project Matter
 This project focuses on analyzing customer behavior to identify the key factors that lead to customer churn and to improve customer retention strategies. Using historical customer data, exploratory data analysis (EDA) was performed to understand patterns related to customer tenure, subscription type, usage behavior, and billing details.
 Data preprocessing techniques such as handling missing values, encoding categorical variables, and feature scaling were applied to prepare the dataset for modeling. Multiple machine learning models were built to predict customer churn, including Logistic Regression and Random Forest. Model performance was evaluated using accuracy, precision, recall, and F1-score, with special emphasis on recall to correctly identify customers likely to churn.
 The analysis revealed that customers with shorter tenure, higher monthly charges, and month-to-month contracts are more likely to churn. Based on these insights, actionable business recommendations were provided, such as personalized offers for high-risk customers, improved onboarding for new users, and promotion of long-term subscription plans.
 This project demonstrates an end-to-end data science workflow and provides valuable insights to help businesses reduce customer churn and improve overall customer satisfaction.
+
+
+
+TASK-3
+Project Overview
+
+Analyze historical bank marketing campaign data.
+
+Understand customer behavior and factors influencing subscription to a term deposit.
+
+Build a prediction model to identify customers most likely to subscribe.
+
+Help the bank reduce marketing cost and increase conversion rate.
