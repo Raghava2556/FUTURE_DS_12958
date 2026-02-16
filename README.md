@@ -1,3 +1,21 @@
+Task-1
+
+Business Sales Performance Analytics is an internship-based project focused on analyzing organizational sales data to measure performance and support business decision-making. The project was developed using Power BI, a business intelligence tool by Microsoft, to transform raw sales data into meaningful insights through interactive dashboards and reports.
+
+The primary objective of this project is to evaluate overall sales performance, track key performance indicators (KPIs), and identify trends across products, regions, and time periods. Sales data from sources such as Excel or CSV files was cleaned and transformed using Power Query, ensuring accuracy and consistency for analysis.
+
+Key metrics analyzed in the project include total sales revenue, total profit, profit margin, quantity sold, average order value, and sales growth on a monthly and yearly basis. Using DAX functions, calculated measures were created to derive insights such as year-over-year growth and profitability analysis.
+
+Multiple dashboards were designed, including a Sales Overview Dashboard to monitor overall performance, a Product Performance Dashboard to identify top and low-performing products, and a Regional Sales Dashboard to analyze location-wise sales trends. Interactive filters and slicers were used to enable dynamic exploration of data.
+
+Through this analysis, the project helped identify high-revenue products, underperforming regions, seasonal sales patterns, and opportunities to improve profitability. The dashboards provide clear visual insights that assist management in making data-driven decisions.
+
+
+
+
+
+
+
 TASK-2
 
 Customer Retention & Churn Analysis – Project Matter
